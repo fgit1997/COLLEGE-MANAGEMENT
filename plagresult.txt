@@ -1,0 +1,10 @@
+Artificialintelligence.txt:5
+Cloudcomputing.txt:10
+Cybersecurity.txt:100
+DataMining.txt:2
+Datascience.txt:4
+DeepLearning.txt:1
+InternetofThings.txt:2
+MachineLearning.txt:3
+Roboticprocessautomation.txt:2
+Softwareengineer.txt:3
